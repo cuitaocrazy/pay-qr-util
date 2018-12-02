@@ -1,0 +1,32 @@
+{
+  "name": "pay-qr-util",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuitaocrazy/pay-qr-util.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuitaocrazy/pay-qr-util/issues"
+  },
+  "homepage": "https://github.com/cuitaocrazy/pay-qr-util#readme",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.10",
+    "@types/ramda": "^0.25.42",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.1"
+  }
+}
